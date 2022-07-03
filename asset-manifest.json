@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.928a48ea.css",
-    "main.js": "/static/js/main.7caeed21.js",
+    "main.js": "/static/js/main.a1df45af.js",
     "static/media/chatr_icon_inverted.png": "/static/media/chatr_icon_inverted.f3d26dd7993d1aaf0832.png",
     "index.html": "/index.html",
     "main.928a48ea.css.map": "/static/css/main.928a48ea.css.map",
-    "main.7caeed21.js.map": "/static/js/main.7caeed21.js.map"
+    "main.a1df45af.js.map": "/static/js/main.a1df45af.js.map"
   },
   "entrypoints": [
     "static/css/main.928a48ea.css",
-    "static/js/main.7caeed21.js"
+    "static/js/main.a1df45af.js"
   ]
 }
